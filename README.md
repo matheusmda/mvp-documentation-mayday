@@ -23,6 +23,9 @@ O repositório para o Back End encontra-se no GitHub: https://github.com/brazmat
 
 O backlog do Mayday encontra-se no ClickUp: https://sharing.clickup.com/31021370/l/h/4-49181932-1/d8a5223539c0bff
 
+#### Relatório Técnico
+
+Para mais detalhes, foi elaborado um relatório técnico que está disponível a seguir: [Relatório Técnico - Mayday.pdf](https://github.com/matheusmda/mvp-documentation-mayday/files/8641298/Relatorio.Tecnico.-.Mayday.pdf)
 
 ### Arquitetura do Projeto - Architecture
 
@@ -51,3 +54,8 @@ The repository for the Back End: https://github.com/brazmatheus/mvp-backend-mayd
 #### Product Backlog
 
 Mayday's backlog is on ClickUp: https://sharing.clickup.com/31021370/l/h/4-49181932-1/d8a5223539c0bff
+
+#### Technical Report
+
+For more details, we elaborated a technical report, available here: [Relatório Técnico - Mayday.pdf](https://github.com/matheusmda/mvp-documentation-mayday/files/8641298/Relatorio.Tecnico.-.Mayday.pdf)
+
